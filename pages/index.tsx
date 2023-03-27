@@ -16,6 +16,28 @@ export default function Home() {
       <h1 className="text-3xl font-bold underline">
       Hello world!
     </h1>
+    <div className=''>
+<ul>
+  <li>
+    <a href="">Home</a>
+  </li>
+  <li>
+    <a href="">a</a>
+  </li>
+  <li>
+    <a href="">b</a>
+  </li>
+  <li>
+    <a href="">c</a>
+  </li>
+  <li>
+    <a href="">d</a>
+  </li>
+  <li>
+    <a href="">e</a>
+  </li>
+</ul>
+    </div>
     </>
   )
 }
